@@ -1,0 +1,19 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "A brief description of your project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2",
+    "chai": "^4.3.4"
+  }
+}
